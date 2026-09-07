@@ -1,5 +1,6 @@
 # Academic Timestamp Record Core Conceptual Innovations in my work from February 2025
 
+Zou, Zhi Kai
 
 Recently, I have become aware that several models published by other authors exhibit significant conceptual overlap with my own framework, with update patterns that appear to closely track the progression of my own work. For instance, the fixed chiral ground-state spin setting, which I explicitly formulated in my March 2025 update; the two generalized coordinates—resonance frequency and resonance axis vector—introduced in my July 2025 update; and the geometric picture of the 4π reset mechanism for the electron's spin-1/2 behavior, presented in my August 2025 update. In each case, I have observed that similar or functionally equivalent concepts have appeared in other specific authors' subsequent updates, typically within days to months after my own releases, often under different terminology but with closely analogous physical content.
 
